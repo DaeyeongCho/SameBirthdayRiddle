@@ -1,7 +1,7 @@
 import java.util.Scanner;
 
 public class simulator {
-    public static void main(String[] args) throws Exception {
+    public static void main(String[] args) { //main메소드
         Scanner scanner = new Scanner(System.in);
 
         while(true) {
